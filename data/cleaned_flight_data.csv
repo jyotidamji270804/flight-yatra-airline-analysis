@@ -1,0 +1,21 @@
+airline,source,destination,stops,departure_time,duration,price,date,class,month,month_num
+IndiGo,Delhi,Mumbai,0,Morning,2h 10m,3500,2024-01-15,Economy,January,1
+Air India,Delhi,Bangalore,1,Evening,4h 30m,5200,2024-01-15,Economy,January,1
+SpiceJet,Mumbai,Chennai,0,Morning,2h 0m,2800,2024-01-16,Economy,January,1
+IndiGo,Bangalore,Kolkata,1,Afternoon,3h 45m,4100,2024-01-16,Business,January,1
+Vistara,Delhi,Hyderabad,0,Morning,2h 20m,6500,2024-01-17,Business,January,1
+Air India,Mumbai,Delhi,0,Night,2h 5m,4200,2024-01-17,Economy,January,1
+IndiGo,Chennai,Delhi,1,Morning,4h 0m,3900,2024-01-18,Economy,January,1
+SpiceJet,Delhi,Kolkata,0,Evening,2h 15m,3100,2024-01-18,Economy,January,1
+Vistara,Hyderabad,Mumbai,0,Morning,1h 55m,5800,2024-01-19,Business,January,1
+IndiGo,Delhi,Mumbai,0,Afternoon,2h 10m,3700,2024-01-19,Economy,January,1
+Air India,Kolkata,Delhi,1,Morning,3h 30m,4800,2024-01-20,Economy,January,1
+SpiceJet,Mumbai,Bangalore,0,Evening,1h 50m,2600,2024-01-20,Economy,January,1
+IndiGo,Delhi,Chennai,1,Morning,5h 0m,4300,2024-02-01,Economy,February,2
+Vistara,Mumbai,Delhi,0,Afternoon,2h 0m,6200,2024-02-02,Business,February,2
+Air India,Delhi,Bangalore,0,Morning,2h 45m,5500,2024-02-03,Economy,February,2
+IndiGo,Hyderabad,Delhi,1,Evening,3h 20m,3800,2024-02-04,Economy,February,2
+SpiceJet,Delhi,Mumbai,0,Morning,2h 10m,2900,2024-02-05,Economy,February,2
+Vistara,Bangalore,Delhi,0,Afternoon,2h 40m,6800,2024-02-06,Business,February,2
+IndiGo,Mumbai,Kolkata,1,Morning,3h 50m,4000,2024-02-07,Economy,February,2
+Air India,Delhi,Mumbai,0,Night,2h 5m,4600,2024-02-08,Economy,February,2
